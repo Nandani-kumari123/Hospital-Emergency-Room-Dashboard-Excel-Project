@@ -1,5 +1,5 @@
 # Hospital-Emergency-Room-Dashboard-Excel-Project
-I have Created dashboard to find out meaningful insights on Hospital Emergency Room Data. This dashboard gives an at-a-glance view of hospital performance and patient data, helping in quick decision-making and performance tracking.
+I have Created dashboard to find out meaningful insights on Hospital Emergency Room Data. This dashboard will help stakeholders monitor,analyze, and make better decisions for managing patients and improving services.
 
 # ✅ Built entirely in Excel
 # ✅ Used Pivot Tables & Pivot Charts for dynamic interactivity
