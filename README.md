@@ -4,11 +4,11 @@ I have Created dashboard to find out meaningful insights on Hospital Emergency R
 # ✅ Built entirely in Excel
 # ✅ Used Pivot Tables & Pivot Charts for dynamic interactivity
 # ✅ Designed to analyze key healthcare metrics like:
-Total patients
-Average wait time
-Patient satisfaction score
-Admission status
-Age & gender distribution
+Total patients,
+Average wait time,
+Patient satisfaction score,
+Admission status,
+Age & gender distribution,
 Department-wise referrals
 
 # 🧠 Key Learnings:
