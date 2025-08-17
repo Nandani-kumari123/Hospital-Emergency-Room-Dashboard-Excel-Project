@@ -26,6 +26,6 @@ Data storytelling using Excel visuals
 * Department Referrals: Check which departments patients are referred to the most.
 
 # Repository Structure
-* Data: 
+* Data: <a href "https://github.com/Nandani-kumari123/Hospital-Emergency-Room-Dashboard-Excel-Project/blob/main/Hospital%20Emergency%20Room%20Data.csv"</a> 
 
 
