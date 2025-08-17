@@ -24,3 +24,5 @@ Data storytelling using Excel visuals
 * Timeliness: Measure the percentage of patients seen within 30 minutes.
 * Gender Analysis: Display the number of patients by gender.
 * Department Referrals: Check which departments patients are referred to the most.
+
+
