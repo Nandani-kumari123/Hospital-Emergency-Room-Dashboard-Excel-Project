@@ -25,4 +25,7 @@ Data storytelling using Excel visuals
 * Gender Analysis: Display the number of patients by gender.
 * Department Referrals: Check which departments patients are referred to the most.
 
+# Repository Structure
+* Data: 
+
 
