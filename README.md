@@ -12,7 +12,7 @@ Age & gender distribution,
 Department-wise referrals
 
 # 🧠 Key Learnings:
-Advanced use of PivotTables
-Interactive slicers and buttons
-Clean and professional dashboard design
+Advanced use of PivotTables,
+Interactive slicers and buttons,
+Clean and professional dashboard design,
 Data storytelling using Excel visuals
