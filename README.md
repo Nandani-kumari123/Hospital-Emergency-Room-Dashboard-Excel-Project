@@ -33,4 +33,5 @@ Check which departments patients are referred to the most.
 # Repository Structure
 * Data: https://github.com/Nandani-kumari123/Hospital-Emergency-Room-Dashboard-Excel-Project/blob/main/Hospital%20Emergency%20Room%20Data.csv <br />
 * Dashboard: [Excel file (.xlsx) of the project ](https://github.com/Nandani-kumari123/Hospital-Emergency-Room-Dashboard-Excel-Project/blob/main/Excel%20Project%20with%20Interactive%20Dashboard.xlsx) <br />
+* Images: ![Final Dashboard of Hospital Emergency Room](https://github.com/user-attachments/assets/551b1305-1734-45f1-a6e8-7fab758ddff4)
 
